@@ -1,0 +1,5 @@
+
+.idea/
+*.jar
+target/
+test_app_mob.iml
